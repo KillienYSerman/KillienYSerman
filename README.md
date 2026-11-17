@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width="736" height="1040" alt="1000078118" src="https://github.com/user-attachments/assets/d94e0a57-a5d5-4f2d-beff-8e77fdfa0511" />
 
-<!--
-**KillienYSerman/KillienYSerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⊹ He/Him
 
-Here are some ideas to get you started:
+⊹ Friends call me Sand, Ks, Sandy, Piss                chamber lifeguard 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fav artist(by genre)
+⊹EDM/Alt pop/Hyperpop
+- Tiffany day
+- Porter Robinson
+- Underscores
+- After
+- F5ve
+
+⊹Indie/Indie rock
+- James ivy
+- Ethel Cain
+- Fiona Apple
+
+ <p align="center">【=╶ ◠ ╴=】
+
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=KillienYSerman&label=Angels&labelColor=%2344403b&countColor=%23c5c5c5&style=flat)
