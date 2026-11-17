@@ -1,4 +1,5 @@
-<img width="736" height="1040" alt="1000078118" src="https://github.com/user-attachments/assets/d94e0a57-a5d5-4f2d-beff-8e77fdfa0511" />
+<img width="736" height="1040" alt="1000078151" src="https://github.com/user-attachments/assets/3bf318b2-bf3d-41b4-b2fe-dd348a310efb" />
+
 
 ⊹ He/Him
 
