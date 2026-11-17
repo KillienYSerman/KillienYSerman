@@ -19,4 +19,4 @@ Fav artist(by genre)
 
  <p align="center">【=╶ ◠ ╴=】
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=KillienYSerman&label=Angels&labelColor=%2344403b&countColor=%23c5c5c5&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=KillienYSerman&label=Angels&labelColor=%2344403b&countColor=%23c5c5c5&style=flat)
